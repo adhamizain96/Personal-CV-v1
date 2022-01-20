@@ -9,7 +9,7 @@ h1 {
   color: #66BFBF;
   font-size: 5.625rem;
   line-height: 2;
-  margin: 50px auto 0 auto;
+  margin: 30px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
@@ -18,7 +18,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 h3 {
@@ -34,7 +34,7 @@ p {
 hr {
   border: dotted grey 6px;
   border-bottom: none;
-  width: 2%;
+  width: 3%;
   margin: 100px auto;
 }
 
@@ -43,7 +43,7 @@ a {
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   font-weight: bold;
-  margin: 10px 15px;
+  margin: 15px 15px;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 .middle-container {
@@ -63,7 +63,7 @@ a:hover {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 20px 0 20px;
 }
 
 .skill-row {
@@ -92,13 +92,13 @@ a:hover {
   padding: 10px 0;
 }
 
-.top-cloud {
+.top-thing {
   position: absolute;
   right: 300px;
-  top: 40x;
+  top: 40px;
 }
 
-.bottom-cloud {
+.bottom-thing {
   position: absolute;
   left: 250px;
   bottom: 300px;
