@@ -7,10 +7,10 @@ body {
 
 h1 {
   color: #66BFBF;
-  font-size: 5.625rem;
+  font-size: 5rem;
   line-height: 2;
   margin: 30px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 50px;
 }
 
 .bottom-container {
@@ -77,7 +77,7 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
