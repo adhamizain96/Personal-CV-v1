@@ -92,18 +92,6 @@ a:hover {
   padding: 10px 0;
 }
 
-.top-thing {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-thing {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-}
-
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
